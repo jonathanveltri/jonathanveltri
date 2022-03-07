@@ -6,9 +6,6 @@
 
 I'm a full-stack developer in process who loves challenges and looks for them to create cool things.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/jonathanveltri//)](https://www.linkedin.com/in/jonathanveltri/)
- 
-
 ### My skills include:
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FAFAFA)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FAFAFA)
@@ -16,5 +13,4 @@ I'm a full-stack developer in process who loves challenges and looks for them to
 
 
 ### 📫 ¡Let's talk!
-Reach out to me via mail: jonathanveltri02@gmail.com \
-LinkedIn: https://www.linkedin.com/in/jonathanveltri/
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/jonathanveltri//)](https://www.linkedin.com/in/jonathanveltri/)
