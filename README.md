@@ -1,4 +1,6 @@
-## Hello there! I am Jonathan 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+## Hello there! I am Jonathan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 I'm a full-stack developer in process who loves challenges and looks for them to create cool things.
 
