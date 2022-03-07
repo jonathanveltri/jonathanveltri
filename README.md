@@ -2,7 +2,7 @@
 
 ## Hello there! I am Jonathan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
+<hr style="height:2px;border-radius: 5px;color:gray;background-color:#8080ff">
 
 I'm a full-stack developer in process who loves challenges and looks for them to create cool things.
 
